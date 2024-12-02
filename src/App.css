@@ -1,0 +1,247 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+.logo {
+  width: 80px;
+}
+.divitens{
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+
+.name {
+  font-weight: 600;
+  letter-spacing: 0.4 px;
+  height: 4.2vh;
+}
+
+.description {
+  font-size: 16px;
+  font-weight: 200;
+  font-style: italic;
+  width: 750px;
+  letter-spacing: 0.2px;
+}
+
+.textreact {
+  font-size: 14px;
+  font-weight: 200;
+  font-style: italic;
+  width: 500px;
+  letter-spacing: 0.2px;
+}
+
+.strong {
+  font-weight: 500;
+}
+
+.figmaicon {
+  width: 21px;
+  padding-top: 1.5rem;
+}
+
+.reactjs {
+  width: 30px;
+  padding-top: 1.5rem;
+}
+
+.divsection {
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+  padding-top: 3.5rem;
+
+}
+
+.iago {
+  width: 380px;
+  opacity: 0.2;
+}
+
+.divboard {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+
+
+}
+
+.board {
+  display: flex;
+  justify-content: center;
+  gap:4rem;
+  padding-top: 2.5rem;
+
+}
+
+.titleboard {
+  padding-top: 8rem;
+  font-weight: 700;
+  font-style: italic;
+  letter-spacing: 0.4px;
+  justify-content: center;
+  display: flex;
+  font-size:25px;
+
+}
+
+.boardtitles {
+  font-size: 15px;
+  font-weight: 700;
+
+  letter-spacing: 0.4px;
+
+  font-style: italic;
+  justify-content: center;
+  display: flex;
+  margin: 2rem;
+  border-radius: 20px;
+  height: 0vh;
+ margin-top: 0;
+
+
+
+
+}
+
+.boardsection {
+  background-color: black;
+
+  width: 26%;
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 20px;
+  justify-content: center;
+
+}
+
+
+
+.textboard {
+  font-size: 14px;
+  text-align: center;
+  width: 280px;
+  font-weight: 200;
+  font-style: italic;
+  letter-spacing: 0.2px;
+  line-height: 3vh;
+
+
+}
+
+.divservices {
+  display: flex;
+
+  flex-direction: column;
+
+
+}
+
+.divetapas {
+  display: flex;
+  justify-content: center;
+  padding-top: 8rem;
+
+
+
+
+}
+.fullboard{
+
+  display: flex;
+  justify-content: center;
+  padding-top: 2.5rem;
+
+ 
+  gap: 4rem;
+  
+}
+.etapasboard{
+  background-color:black;
+  width: 26%;
+  height: 30vh;
+  display: flex;
+  justify-content: center;  
+  border-radius: 20px;
+  flex-direction: column;
+  align-items: center;
+  width: 26%;
+
+
+}
+.divitens{
+  gap: 2.2rem;
+}
+.vitens{
+  width: 17px;
+}
+.etapastitle{
+  font-size: 15px;
+  font-weight: 700;
+
+  letter-spacing: 0.4px;
+
+  font-style: italic;
+  justify-content: center;
+  display: flex;
+  margin: 2rem;
+  border-radius: 20px;
+  height: 0vh;
+ margin-top: 0;
+}
+.h2etapatitle{
+  font-style: italic;
+  font-size: 25px;
+  letter-spacing: 0.4px;
+}
+.subetapa{
+  font-size: 14px;
+  text-align: center;
+  width: 280px;
+  font-weight: 200;
+  font-style: italic;
+  letter-spacing: 0.2px;
+  line-height: 3vh;
+}
+
+.divbottom{
+  display: flex;
+  justify-content: center;
+  gap: 5rem;
+  padding-bottom: 1rem;
+  padding-top:5rem;
+}
+.iconsbottom{
+  width: 17px;
+  
+}
+.textbottom{
+  font-size: 11px;
+ 
+  font-weight: 200;
+  letter-spacing: 0.3px;
+}
+.divnumber{
+  width:87%;
+}
+.number{
+  font-size:15px;
+  font-style: italic;
+  font-weight: 400;
+}
+.p{
+  font-weight: 800;
+
+}
